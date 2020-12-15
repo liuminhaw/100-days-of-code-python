@@ -9,3 +9,6 @@
 
 ## Day 3 - Treasure Island
 - [Treasure Island](day_003)
+
+## Day 4 - Rock Paper Scissors
+- [Rock Paper Scissors](day_004)
