@@ -21,4 +21,7 @@ Note: [Reeborg's World Maze](https://reeborg.ca/reeborg.html?lang=en&mode=python
 - [Escaping Maze](day_006)
 
 #### Day 7 - Hangman
--[Hangman](day_007)
+- [Hangman](day_007)
+
+#### Day 8 - Caesar Cipher
+- [Caesar Cipher](day_008)
